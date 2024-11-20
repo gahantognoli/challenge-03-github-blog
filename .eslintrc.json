@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-henrique/react",
+  "rules": {
+    "react/no-children-prop": "off"
+  }
+}
